@@ -107,6 +107,5 @@ A full video walkthrough of the system is available for you to explore all featu
 
 For any questions or suggestions, feel free to reach out:
 
-- **Name**: Yassien Tawfik
-- **Email**: Yassien.m.m.tawfik@gmail.com
-- **GitHub**: [YassienTawfikk](https://github.com/YassienTawfikk)
+- **Name**: Madonna Mosaad
+- **Email**: Madonna.Mosaad03@eng-st.cu.edu.eg
