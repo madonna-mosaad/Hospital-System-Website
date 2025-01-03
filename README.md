@@ -36,7 +36,7 @@ To set up and run this project on your local machine, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/YassienTawfikk/Hospital-System-Website.git
+   git clone https://github.com/madonna-mosaad/Hospital-System-Website.git
    cd Hospital-System-Website
    ```
 
@@ -86,10 +86,10 @@ Here is a brief overview of the database tables used in this project:
 
 A huge shoutout to the entire **development team** who worked tirelessly to bring this project to life:
 
+- [Madonna Mosaad](https://github.com/madonna-mosaad)
 - [Yassien Tawfik](https://github.com/YassienTawfikk)
 - [Mazen Marwan](https://github.com/Mazenmarwan023)
 - [Nancy Mahmoud](https://github.com/nancymahmoud1)
-- [Madonna Mosaad](https://github.com/madonna-mosaad)
 - **Youssef Mohamed**
 
 Thank you for your expertise and collaboration! 
